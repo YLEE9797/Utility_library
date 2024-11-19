@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\UtilityLib.dll
+C:\Users\USER\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\UtilityLib.pdb
+C:\Users\USER\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\UtilityLib.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\UtilityLib.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\UtilityLib.dll
+C:\Users\USER\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\UtilityLib.pdb
