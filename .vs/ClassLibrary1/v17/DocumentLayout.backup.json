@@ -3,23 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\equal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\equal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\iteration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UtilityLib||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -32,11 +36,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 263,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Equal.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Equal.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Equal.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Equal.cs",
+              "RelativeToolTip": "ClassLibrary1\\Equal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:21:58.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Iteration.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Iteration.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Iteration.cs",
@@ -49,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Stream.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Stream.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Stream.cs",
@@ -62,20 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Compare.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Compare.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Compare.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Compare.cs",
               "RelativeToolTip": "ClassLibrary1\\Compare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T07:36:52.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UtilityLib",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
               "RelativeDocumentMoniker": "ClassLibrary1\\UtilityLib.csproj",
@@ -87,13 +108,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Utility.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Utility.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Utility.cs",
               "RelativeToolTip": "ClassLibrary1\\Utility.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAA/wGYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAwwGkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T00:04:39.949Z",
               "EditorCaption": ""

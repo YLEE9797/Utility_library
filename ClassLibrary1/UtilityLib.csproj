@@ -46,6 +46,8 @@
     <Compile Include="Compare.cs" />
     <Compile Include="Equal.cs" />
     <Compile Include="Iteration.cs" />
+    <Compile Include="Lamda.cs" />
+    <Compile Include="Properties.cs" />
     <Compile Include="Stream.cs" />
     <Compile Include="Utility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
