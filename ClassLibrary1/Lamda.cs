@@ -18,10 +18,14 @@ namespace UtilityLib
                 default: return "Unknown";
             }
         };
-
-       public void ConvertIntToHex(int value)
+        static void Excute(Func<int> action)
         {
 
         }
+        static void Excute(Func<double> action)
+        {
+
+        }
+
     }
 }

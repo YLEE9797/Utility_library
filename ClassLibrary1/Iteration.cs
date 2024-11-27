@@ -5,6 +5,7 @@ using System.Linq;
 using System.Net.Mime;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace UtilityLib
 {
@@ -14,6 +15,7 @@ namespace UtilityLib
     {
         public int[] Input;
         public int StartInput;
+
         //Input 클래스 : Input 배열안에서 start 포인트 부터 시작
       
         //만든이유 : Input 신호 받아와서 그 신호 있는지 없는지 계속 체크할려고
@@ -41,7 +43,7 @@ namespace UtilityLib
         {
             get
             {
-                if(posit ==-1 || posit == iter.Input.Length)
+                if (posit == -1 || posit == iter.Input.Length)
                 {
                     throw new InvalidCastException();
                 }
@@ -52,7 +54,7 @@ namespace UtilityLib
 
         }
         Iteration iter;
-        int posit=-1;
+        int posit = -1;
         private Enumeration_Iterator enumeration_Iterator;
 
         internal Enumeration_Iterator(Iteration iter)
@@ -60,7 +62,7 @@ namespace UtilityLib
             this.iter = iter;
             posit = -1;
         }
-        
+
         public Enumeration_Iterator(Enumeration_Iterator enumeration_Iterator)
         {
             this.enumeration_Iterator = enumeration_Iterator;
@@ -72,7 +74,7 @@ namespace UtilityLib
                 posit++;
             }
             return posit < iter.Input.Length;
-              
+
         }
         public IEnumerator GetEnumerator()
         {
