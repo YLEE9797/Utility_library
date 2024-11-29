@@ -16,7 +16,7 @@ namespace UtilityLib
         List<Model> Model_List = new List<Model>(); 
         public List<Model> ModelList { get { return Model_List; } }
         //모델(단일 모델일때)
-        public string Model { get; private set; }
+        public static string Model { get; private set; }
         //LHD/RHD
         public string Drv {  get; private set; }
         //LH/RH

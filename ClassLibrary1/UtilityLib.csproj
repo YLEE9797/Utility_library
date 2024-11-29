@@ -43,15 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Compare.cs" />
-    <Compile Include="ConvertType.cs" />
-    <Compile Include="Equal.cs" />
-    <Compile Include="Iteration.cs" />
-    <Compile Include="Lamda.cs" />
-    <Compile Include="LINQ.cs" />
-    <Compile Include="Properties.cs" />
-    <Compile Include="Stream.cs" />
-    <Compile Include="Utility.cs" />
+    <Compile Include="Can\clsCan.cs" />
+    <Compile Include="Can\PcanBasic.cs" />
+    <Compile Include="Util\clsModel.cs" />
+    <Compile Include="Util\Compare.cs" />
+    <Compile Include="Util\ConvertType.cs" />
+    <Compile Include="Util\Equal.cs" />
+    <Compile Include="Util\Iteration.cs" />
+    <Compile Include="Util\Lamda.cs" />
+    <Compile Include="Util\LINQ.cs" />
+    <Compile Include="Util\Model.cs" />
+    <Compile Include="Util\Properties.cs" />
+    <Compile Include="Util\Stream.cs" />
+    <Compile Include="Util\Utility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
