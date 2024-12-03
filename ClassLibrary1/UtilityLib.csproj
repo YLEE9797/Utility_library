@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="Can\clsCan.cs" />
     <Compile Include="Can\PcanBasic.cs" />
+    <Compile Include="Log\Log.cs" />
+    <Compile Include="Seat_Inspection\SensorProcess.cs" />
     <Compile Include="Util\clsModel.cs" />
     <Compile Include="Util\Compare.cs" />
     <Compile Include="Util\ConvertType.cs" />
