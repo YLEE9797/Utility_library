@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace UtilityLib
 {
-    internal class Properties
+    internal class Propertie
     {
 
 

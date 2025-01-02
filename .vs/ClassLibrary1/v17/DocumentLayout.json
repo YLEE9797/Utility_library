@@ -7,40 +7,119 @@
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\util\\converttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\converttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\sj_fnc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\sj_fnc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\dataloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\sj_fnc\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\modelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\perfomancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\perfomancemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\batch\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\batch\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\batch\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\batch\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\sj_fnc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\sj_fnc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\plc\\clsplc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\plc\\clsplc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\6d688e1a3c77435fc32ddfb1f314b1a97737d9cffb1087e15c1a315fb8333905\\SQLite3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\resultaggreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\resultaggreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\compare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\clsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\clsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\seat_inspection\\sensorprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\seat_inspection\\sensorprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\classlibrary1\\util\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\can\\clscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\can\\clscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\clsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\clsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\dataprocess\\taskprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\dataprocess\\taskprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\can\\pcanbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\can\\pcanbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\seat_inspection\\sensorprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\seat_inspection\\sensorprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\converttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\converttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\log\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\can\\clscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\can\\clscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\ConvertType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,17 +128,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\can\\pcanbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\can\\pcanbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\classlibrary1\\util\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44A0101F-6959-4CC3-BDBE-DF58F1443621}|ClassLibrary1\\UtilityLib.csproj|solutionrelative:classlibrary1\\util\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UtilityLib||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Lamda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,14 +166,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConvertType.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\ConvertType.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\ConvertType.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\ConvertType.cs",
-              "RelativeToolTip": "ClassLibrary1\\Util\\ConvertType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:53:29.517Z",
+              "Title": "SJ_FNC",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
+              "RelativeDocumentMoniker": "SJ_FNC\\SJ_FNC.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
+              "RelativeToolTip": "SJ_FNC\\SJ_FNC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T06:40:38.737Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -114,55 +182,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Log.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Log\\Log.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Log\\Log.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Log\\Log.cs",
-              "RelativeToolTip": "ClassLibrary1\\Log\\Log.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
+              "RelativeDocumentMoniker": "SJ_FNC\\frmMain.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
+              "RelativeToolTip": "SJ_FNC\\frmMain.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAjwJsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T01:29:57.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SensorProcess.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
-              "RelativeToolTip": "ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:44:53.128Z",
+              "WhenOpened": "2024-11-29T02:12:19.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "clsModel.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\clsModel.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\clsModel.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\clsModel.cs",
-              "RelativeToolTip": "ClassLibrary1\\Util\\clsModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAATAAAAAAAAAA==",
+              "Title": "DataLoader.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\DataLoader.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\DataLoader.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\DataLoader.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\DataLoader.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:05:17.904Z",
+              "WhenOpened": "2024-12-03T04:46:18.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Compare.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Compare.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Compare.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Compare.cs",
-              "RelativeToolTip": "ClassLibrary1\\Util\\Compare.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwCoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\ErrorHandler.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\ErrorHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T07:36:52.704Z",
+              "WhenOpened": "2024-12-03T04:46:45.801Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\ModelForm.cs",
+              "RelativeDocumentMoniker": "SJ_FNC\\ModelForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\ModelForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "SJ_FNC\\ModelForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:30:30.883Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
@@ -173,12 +240,273 @@
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "SJ_FNC\\frmMain.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T06:46:39.07Z",
+              "WhenOpened": "2024-12-31T00:55:55.89Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "SearchForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs",
+              "RelativeDocumentMoniker": "SJ_FNC\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "SJ_FNC\\SearchForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:29:49.632Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\Logger.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\Logger.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\Logger.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:50:13.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PerfomanceMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\PerfomanceMonitor.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\PerfomanceMonitor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\PerfomanceMonitor.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\PerfomanceMonitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:49:29.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Batch\\Job.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Batch\\Job.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Batch\\Job.cs",
+              "RelativeToolTip": "ClassLibrary1\\Batch\\Job.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:10:11.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SetForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs",
+              "RelativeDocumentMoniker": "SJ_FNC\\SetForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "SJ_FNC\\SetForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:30:14.164Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Batch\\Batch.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Batch\\Batch.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Batch\\Batch.cs",
+              "RelativeToolTip": "ClassLibrary1\\Batch\\Batch.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T05:14:45.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs",
+              "RelativeDocumentMoniker": "SJ_FNC\\SearchForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs",
+              "RelativeToolTip": "SJ_FNC\\SearchForm.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T01:27:19.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SJ_FNC.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
+              "RelativeDocumentMoniker": "SJ_FNC\\SJ_FNC.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
+              "RelativeToolTip": "SJ_FNC\\SJ_FNC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T06:45:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsPlc.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Plc\\clsPlc.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Plc\\clsPlc.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Plc\\clsPlc.cs",
+              "RelativeToolTip": "ClassLibrary1\\Plc\\clsPlc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:11:27.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SQLite3.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\6d688e1a3c77435fc32ddfb1f314b1a97737d9cffb1087e15c1a315fb8333905\\SQLite3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6d688e1a3c77435fc32ddfb1f314b1a97737d9cffb1087e15c1a315fb8333905\\SQLite3.cs",
+              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\6d688e1a3c77435fc32ddfb1f314b1a97737d9cffb1087e15c1a315fb8333905\\SQLite3.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6d688e1a3c77435fc32ddfb1f314b1a97737d9cffb1087e15c1a315fb8333905\\SQLite3.cs [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AgIAAIcMAAAAAAAAAAAhwJQMAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:08:35.25Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "SJ_FNC\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.Designer.cs",
+              "RelativeToolTip": "SJ_FNC\\frmMain.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:59:15.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Utility.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Utility.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Utility.cs",
+              "RelativeToolTip": "ClassLibrary1\\Util\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T00:04:39.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResultAggreator.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\ResultAggreator.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\ResultAggreator.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\ResultAggreator.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\ResultAggreator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:47:09.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Compare.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Compare.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Compare.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Compare.cs",
+              "RelativeToolTip": "ClassLibrary1\\Util\\Compare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:36:52.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Properties.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Properties.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Properties.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Properties.cs",
+              "RelativeToolTip": "ClassLibrary1\\Util\\Properties.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:01:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\TaskManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\TaskManager.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:50:29.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "clsModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\clsModel.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\clsModel.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\clsModel.cs",
+              "RelativeToolTip": "ClassLibrary1\\Util\\clsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:05:17.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TaskProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\TaskProcessor.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\DataProcess\\TaskProcessor.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\DataProcess\\TaskProcessor.cs",
+              "RelativeToolTip": "ClassLibrary1\\DataProcess\\TaskProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:46:34.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SensorProcess.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
+              "RelativeToolTip": "ClassLibrary1\\Seat_Inspection\\SensorProcess.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T00:44:53.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Log\\Log.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Log\\Log.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Log\\Log.cs",
+              "RelativeToolTip": "ClassLibrary1\\Log\\Log.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:29:57.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ConvertType.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\ConvertType.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\ConvertType.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\ConvertType.cs",
+              "RelativeToolTip": "ClassLibrary1\\Util\\ConvertType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:53:29.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Stream.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Stream.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Stream.cs",
@@ -186,25 +514,11 @@
               "RelativeToolTip": "ClassLibrary1\\Util\\Stream.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T00:39:17.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T00:39:17.954Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Properties.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Properties.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Properties.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Properties.cs",
-              "RelativeToolTip": "ClassLibrary1\\Util\\Properties.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:01:03.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 31,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Model.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Model.cs",
@@ -216,7 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 29,
               "Title": "clsCan.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Can\\clsCan.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Can\\clsCan.cs",
@@ -228,20 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
-              "RelativeDocumentMoniker": "SJ_FNC\\frmMain.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
-              "RelativeToolTip": "SJ_FNC\\frmMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T02:12:19.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "PcanBasic.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Can\\PcanBasic.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Can\\PcanBasic.cs",
@@ -253,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "ConvertType.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\ConvertType.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\ConvertType.cs",
@@ -264,98 +565,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "Lamda.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Lamda.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Lamda.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Lamda.cs",
               "RelativeToolTip": "ClassLibrary1\\Lamda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T07:54:00.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "Properties.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Properties.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Properties.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Properties.cs",
               "RelativeToolTip": "ClassLibrary1\\Properties.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T07:16:37.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "Equal.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Equal.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Equal.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Equal.cs",
               "RelativeToolTip": "ClassLibrary1\\Equal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T06:21:58.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "Iteration.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Iteration.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Iteration.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Iteration.cs",
               "RelativeToolTip": "ClassLibrary1\\Iteration.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T02:10:17.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 36,
               "Title": "LINQ.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\LINQ.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\LINQ.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\LINQ.cs",
               "RelativeToolTip": "ClassLibrary1\\LINQ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T01:55:55.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "Stream.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Stream.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Stream.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Stream.cs",
               "RelativeToolTip": "ClassLibrary1\\Stream.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T01:55:51.148Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UtilityLib",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
-              "RelativeDocumentMoniker": "ClassLibrary1\\UtilityLib.csproj",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
-              "RelativeToolTip": "ClassLibrary1\\UtilityLib.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-19T00:31:11.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Utility.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Utility.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Util\\Utility.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\Util\\Utility.cs",
-              "RelativeToolTip": "ClassLibrary1\\Util\\Utility.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAwwG4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:04:39.949Z"
             }
           ]
         }

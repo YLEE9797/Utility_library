@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NReco.Csv</name>
+    </assembly>
+    <members>
+        <member name="T:NReco.Csv.CsvReader">
+            <summary>
+            Fast and memory efficient implementation of CSV reader (3x times faster than CsvHelper).
+            </summary>
+            <remarks>API is similar to CSVHelper CsvReader.</remarks>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.Delimiter">
+            <summary>
+            Delimiter used in CSV file.
+            </summary>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.BufferSize">
+            <summary>
+            Size of the circular buffer. Buffer size limits max length of the CSV line that can be processed. 
+            </summary>
+            <remarks>Default buffer size is 32kb.</remarks>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.TrimFields">
+            <summary>
+            If true start/end spaces are excluded from field values (except values in quotes). True by default.
+            </summary>
+        </member>
+        <member name="M:NReco.Csv.CsvReader.#ctor(System.IO.TextReader)">
+            <summary>
+            Create CSV reader from text reader.
+            </summary>
+            <param name="rdr">
+            Text reader that provides CSV data.
+            </param>
+        </member>
+        <member name="M:NReco.Csv.CsvReader.#ctor(System.IO.TextReader,System.String)">
+            <summary>
+            Create CSV reader from text reader with custom delimiter.
+            </summary>
+            <param name="rdr">
+            Text reader that provides CSV data.
+            </param>
+            <param name="delimiter">
+            Delimiter used in CSV file.
+            </param>
+            <exception cref="T:System.ArgumentException">
+            Thrown when delimiter is empty.
+            </exception>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.SkippedLinesCount">
+            <summary>
+            Number of lines skipped by reader (empty lines).
+            </summary>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.ReadLinesCount">
+            <summary>
+            Number of lines read by reader.
+            </summary>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.FieldsCount">
+            <summary>
+            Number of fields in current CSV line.
+            </summary>
+        </member>
+        <member name="P:NReco.Csv.CsvReader.Item(System.Int32)">
+            <summary>
+            Get field value by index.
+            </summary>
+            <param name="idx">
+            Field index (0-based).</param>
+            <returns></returns>
+        </member>
+        <member name="M:NReco.Csv.CsvReader.GetValueLength(System.Int32)">
+            <summary>
+            Get field value length by index.
+            </summary>
+            <param name="idx">
+            Field index (0-based).
+            </param>
+            <returns></returns>
+        </member>
+        <member name="M:NReco.Csv.CsvReader.ProcessValueInBuffer(System.Int32,System.Action{System.Char[],System.Int32,System.Int32})">
+            <summary>
+            Process field value by index.
+            </summary>
+            <param name="idx">
+            Field index (0-based).
+            </param>
+            <param name="handler">
+            Action that processes field value (char array, start index, length).
+            </param>
+        </member>
+        <member name="M:NReco.Csv.CsvReader.Read">
+            <summary>
+            Read next CSV line.
+            </summary>
+            <returns>
+            <see langword="true"/> if line was read, <see langword="false"/> if no more data.
+            </returns>
+            <exception cref="T:System.IO.InvalidDataException"></exception>
+        </member>
+        <member name="T:NReco.Csv.CsvWriter">
+            <summary>
+            Fast and efficient implementation of CSV writer.
+            </summary>
+            <remarks>API is similar to CSVHelper CsvWriter class</remarks>
+        </member>
+    </members>
+</doc>
