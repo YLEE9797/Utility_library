@@ -34,6 +34,14 @@ namespace UtilityLib
                 Console.WriteLine(result);
             }
         }
+        //특정 문자열로 시작하는거 묶기
+        public static dynamic GroupBy(string []st_str,string Findstr)
+        {
+          _query = st_str.GroupBy(x => x.StartsWith(Findstr)).ToList();
+            return _query;
+        }
+
+
 
     }
 }

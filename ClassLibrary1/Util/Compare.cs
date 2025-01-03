@@ -1,8 +1,10 @@
 ﻿using ClassLibrary1;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Reflection.Emit;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -37,6 +39,24 @@ namespace UtilityLib
             return ret == 0 ? new int?() : ret;
         }
         #endregion
-
+        //데이터 정렬 row 1번 하고 2번하고 비교해서 만약에 앞에 값이 더크면
+        //값이 치환된다
+        public static void SortData(DataTable DT)
+        {
+            int Row1Value;
+            int Row2Value;
+            for(int i=0; i < DT.Rows.Count; i++)
+            {
+                //25
+                Row1Value = int.Parse(DT.Rows[i][2].ToString());
+                //22
+                Row2Value = int.Parse(DT.Rows[i + 1][2].ToString());
+                if (Row1Value>Row2Value)
+                {
+                    Row1Value= int.Parse(DT.Rows[i + 1][2].ToString());
+                    Row2Value= int.Parse(DT.Rows[i][2].ToString());
+                }
+            }
+        }
     }
 }

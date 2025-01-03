@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace UtilityLib.DataProcess
 {
-    //태스크 관리자ㅈ
+    //태스크 관리자
     public class TaskManager
     {
    

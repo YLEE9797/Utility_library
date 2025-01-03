@@ -89,6 +89,7 @@
             btn_Search.TabIndex = 0;
             btn_Search.Text = "데이터 조회";
             btn_Search.UseVisualStyleBackColor = false;
+            btn_Search.Click += btn_Search_Click;
             // 
             // panel1
             // 

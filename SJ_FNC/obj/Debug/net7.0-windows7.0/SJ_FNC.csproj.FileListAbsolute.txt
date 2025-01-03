@@ -45,3 +45,4 @@ C:\Users\USER\source\repos\ClassLibrary1\Utility_library\SJ_FNC\bin\Debug\net7.0
 C:\Users\USER\source\repos\ClassLibrary1\Utility_library\SJ_FNC\obj\Debug\net7.0-windows7.0\SJ_FNC.ModelForm.resources
 C:\Users\USER\source\repos\ClassLibrary1\Utility_library\SJ_FNC\obj\Debug\net7.0-windows7.0\SJ_FNC.SearchForm.resources
 C:\Users\USER\source\repos\ClassLibrary1\Utility_library\SJ_FNC\obj\Debug\net7.0-windows7.0\SJ_FNC.SetForm.resources
+C:\Users\USER\source\repos\ClassLibrary1\Utility_library\SJ_FNC\obj\Debug\net7.0-windows7.0\SJ_FNC.LogViewer.resources

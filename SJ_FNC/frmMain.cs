@@ -12,13 +12,13 @@ namespace SJ_FNC
 {
     public partial class MainForm : Form
     {
-        public static DataLoader DB=new DataLoader();
+        public static DataLoader DB = new DataLoader();
         public MainForm()
         {
             DB.CreateDB();
             InitializeComponent();
         }
-       
+
 
         public void LoadChart()
         {
@@ -114,12 +114,14 @@ namespace SJ_FNC
         }
         public void ListLog(string str)
         {
-            listBox1.Items.Add(str);
+            //listBox1.Items.Add(str);
+            LogViewer viewer = new LogViewer();
+            viewer.listBox1.Items.Add(str);
         }
         private void Form1_Load(object sender, EventArgs e)
         {
             ListLog(DateTime.Now.ToString() + "->" + "프로그램 시작");
-           
+
             CreateDataView();
             //LoadChart();
             if (pnIO.Visible)
@@ -152,7 +154,8 @@ namespace SJ_FNC
 
             dataGridView1.DataSource = bindingSource;
             AddNewRow(dataGridView1, DateTime.Now.ToString("yyyy-MM-dd"), DateTime.Now.ToString("HH:MM:ss"), "SV", "LHD_LH_IMS_VENT", 1.414, "OK", 3.15, "NG", 3.15, "NG");
-        
+            DB.RUNSQL(string.Format("insert into tb_data1(Date,Model,SerialNo,Spec1,Spec1Jug,Spec2,Spec2Jug,Spec3,Spec3Jug)" +
+                "values('{0}','{1}','{2}','{3}','{4}','{5}','{6}','{7}','{8}')", DateTime.Now.ToString("yyyy-MM-dd HH:MM:ss"), "SV", "1111111", "1", "OK", "2", "OK", "3", "OK"));
         }
 
         private void dataGridView1_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
@@ -228,6 +231,29 @@ namespace SJ_FNC
                     }
                 }
             }
+        }
+
+        private void btn_Search_Click(object sender, EventArgs e)
+        {
+            SearchForm search = new SearchForm();
+            search.Show();
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void btn_set_Click(object sender, EventArgs e)
+        {
+            SetForm setfrm = new SetForm();
+            setfrm.Show();
+        }
+
+
+        private void btn_Log_Click(object sender, EventArgs e)
+        {
+            LogViewer Viewer = new LogViewer();
+            Viewer.Show();
         }
     }
 }
