@@ -54,3 +54,147 @@ C:\Users\USER\source\repos\ClassLibrary1\Utility_library\ClassLibrary1\obj\Debug
 C:\Users\USER\source\repos\ClassLibrary1\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.Up2Date
 C:\Users\USER\source\repos\ClassLibrary1\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.dll
 C:\Users\USER\source\repos\ClassLibrary1\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.pdb
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\UtilityLib.dll.config
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\UtilityLib.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\UtilityLib.pdb
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\CsvHelper.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Enums.NET.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Google.Protobuf.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MathNet.Numerics.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Buffers.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Memory.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.ValueTuple.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ZstdSharp.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\CsvHelper.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Enums.NET.pdb
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Enums.NET.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Google.Protobuf.pdb
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Google.Protobuf.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MathNet.Numerics.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MySql.Data.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Buffers.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Memory.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.ValueTuple.xml
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.Up2Date
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.dll
+C:\Users\USER\source\repos\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.pdb
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\UtilityLib.dll.config
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\UtilityLib.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\UtilityLib.pdb
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\CsvHelper.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Enums.NET.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Google.Protobuf.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Hash.xxHash.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MathNet.Numerics.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MySql.Data.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Buffers.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.IO.Pipelines.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Memory.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Numerics.Vectors.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.ValueTuple.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ZstdSharp.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\CsvHelper.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Enums.NET.pdb
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Enums.NET.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Google.Protobuf.pdb
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Google.Protobuf.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\K4os.Hash.xxHash.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MathNet.Numerics.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\MySql.Data.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Buffers.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Data.SQLite.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.IO.Pipelines.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Memory.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Numerics.Vectors.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\bin\Debug\System.ValueTuple.xml
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.AssemblyReference.cache
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.CoreCompileInputs.cache
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.csproj.Up2Date
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.dll
+C:\세종 FNC 프로그램\Utility_library\Utility_library\ClassLibrary1\obj\Debug\UtilityLib.pdb

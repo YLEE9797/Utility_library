@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SJ_FNC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj": {
+    "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\ClassLibrary1\\UtilityLib.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
         "projectName": "UtilityLib",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\ClassLibrary1\\UtilityLib.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj": {
+    "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SJ_FNC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
         "projectName": "SJ_FNC",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SJ_FNC.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\obj\\",
+        "outputPath": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -44,14 +44,15 @@
         "sources": {
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows7.0",
             "projectReferences": {
-              "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj": {
-                "projectPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\ClassLibrary1\\UtilityLib.csproj"
+              "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\ClassLibrary1\\UtilityLib.csproj": {
+                "projectPath": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\ClassLibrary1\\UtilityLib.csproj"
               }
             }
           }

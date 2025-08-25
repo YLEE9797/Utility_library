@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SJ_FNC
-build_property.ProjectDir = C:\Users\USER\source\repos\ClassLibrary1\Utility_library\SJ_FNC\
+build_property.ProjectDir = C:\Users\USER\source\repos\PortableTester\Utility_library\SJ_FNC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

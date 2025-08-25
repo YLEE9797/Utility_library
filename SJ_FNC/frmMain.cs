@@ -13,6 +13,7 @@ namespace SJ_FNC
     public partial class MainForm : Form
     {
         public static DataLoader DB = new DataLoader();
+        
         public MainForm()
         {
             DB.CreateDB();

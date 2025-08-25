@@ -37,6 +37,10 @@
             btn_set = new Button();
             btn_Search = new Button();
             panel3 = new Panel();
+            tableLayoutPanel6 = new TableLayoutPanel();
+            label15 = new Label();
+            label1 = new Label();
+            btn_Log = new Button();
             pnIO = new Panel();
             label14 = new Label();
             btn_AddNewRow = new Button();
@@ -48,11 +52,6 @@
             label8 = new Label();
             label7 = new Label();
             label3 = new Label();
-            tableLayoutPanel6 = new TableLayoutPanel();
-            lblState = new Label();
-            label15 = new Label();
-            label1 = new Label();
-            btn_Log = new Button();
             tableLayoutPanel2 = new TableLayoutPanel();
             label2 = new Label();
             tableLayoutPanel3 = new TableLayoutPanel();
@@ -79,10 +78,12 @@
             lblJug = new Label();
             chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             dataGridView1 = new DataGridView();
+            lblState2 = new Label();
+            lblState = new Label();
             tableLayoutPanel1.SuspendLayout();
             panel3.SuspendLayout();
-            pnIO.SuspendLayout();
             tableLayoutPanel6.SuspendLayout();
+            pnIO.SuspendLayout();
             tableLayoutPanel2.SuspendLayout();
             tableLayoutPanel3.SuspendLayout();
             panel1.SuspendLayout();
@@ -172,7 +173,6 @@
             // 
             // panel3
             // 
-            panel3.Controls.Add(pnIO);
             panel3.Controls.Add(tableLayoutPanel6);
             panel3.Controls.Add(label1);
             panel3.Location = new Point(0, 0);
@@ -181,6 +181,67 @@
             tableLayoutPanel1.SetRowSpan(panel3, 2);
             panel3.Size = new Size(1139, 136);
             panel3.TabIndex = 5;
+            // 
+            // tableLayoutPanel6
+            // 
+            tableLayoutPanel6.ColumnCount = 2;
+            tableLayoutPanel6.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
+            tableLayoutPanel6.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
+            tableLayoutPanel6.Controls.Add(lblState, 0, 1);
+            tableLayoutPanel6.Controls.Add(lblState2, 0, 2);
+            tableLayoutPanel6.Controls.Add(label15, 0, 0);
+            tableLayoutPanel6.Location = new Point(969, -2);
+            tableLayoutPanel6.Name = "tableLayoutPanel6";
+            tableLayoutPanel6.RowCount = 3;
+            tableLayoutPanel6.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
+            tableLayoutPanel6.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
+            tableLayoutPanel6.RowStyles.Add(new RowStyle(SizeType.Absolute, 47F));
+            tableLayoutPanel6.Size = new Size(168, 135);
+            tableLayoutPanel6.TabIndex = 2;
+            // 
+            // label15
+            // 
+            label15.BackColor = SystemColors.ActiveCaption;
+            label15.BorderStyle = BorderStyle.FixedSingle;
+            tableLayoutPanel6.SetColumnSpan(label15, 2);
+            label15.Font = new Font("맑은 고딕", 21.75F, FontStyle.Bold, GraphicsUnit.Point);
+            label15.ForeColor = Color.White;
+            label15.Location = new Point(0, 0);
+            label15.Margin = new Padding(0);
+            label15.Name = "label15";
+            label15.Size = new Size(168, 44);
+            label15.TabIndex = 8;
+            label15.Text = "상태확인";
+            label15.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // label1
+            // 
+            label1.BackColor = SystemColors.ActiveCaption;
+            label1.BorderStyle = BorderStyle.FixedSingle;
+            label1.Font = new Font("맑은 고딕", 48F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(2, -1);
+            label1.Margin = new Padding(0);
+            label1.Name = "label1";
+            label1.Size = new Size(966, 136);
+            label1.TabIndex = 1;
+            label1.Text = "SlideTester";
+            label1.Click += label1_Click;
+            // 
+            // btn_Log
+            // 
+            btn_Log.BackColor = Color.Teal;
+            btn_Log.FlatStyle = FlatStyle.Flat;
+            btn_Log.Font = new Font("맑은 고딕", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            btn_Log.ForeColor = Color.White;
+            btn_Log.Location = new Point(1545, 0);
+            btn_Log.Margin = new Padding(0);
+            btn_Log.Name = "btn_Log";
+            btn_Log.Size = new Size(191, 69);
+            btn_Log.TabIndex = 6;
+            btn_Log.Text = "LOG";
+            btn_Log.UseVisualStyleBackColor = false;
+            btn_Log.Click += btn_Log_Click;
             // 
             // pnIO
             // 
@@ -194,7 +255,7 @@
             pnIO.Controls.Add(label8);
             pnIO.Controls.Add(label7);
             pnIO.Controls.Add(label3);
-            pnIO.Location = new Point(432, 12);
+            pnIO.Location = new Point(745, 64);
             pnIO.Name = "pnIO";
             pnIO.Size = new Size(772, 380);
             pnIO.TabIndex = 0;
@@ -289,80 +350,6 @@
             label3.Size = new Size(22, 15);
             label3.TabIndex = 0;
             label3.Text = "SV";
-            // 
-            // tableLayoutPanel6
-            // 
-            tableLayoutPanel6.ColumnCount = 2;
-            tableLayoutPanel6.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
-            tableLayoutPanel6.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 50F));
-            tableLayoutPanel6.Controls.Add(lblState, 0, 1);
-            tableLayoutPanel6.Controls.Add(label15, 0, 0);
-            tableLayoutPanel6.Location = new Point(969, -2);
-            tableLayoutPanel6.Name = "tableLayoutPanel6";
-            tableLayoutPanel6.RowCount = 2;
-            tableLayoutPanel6.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
-            tableLayoutPanel6.RowStyles.Add(new RowStyle(SizeType.Percent, 50F));
-            tableLayoutPanel6.Size = new Size(168, 135);
-            tableLayoutPanel6.TabIndex = 2;
-            // 
-            // lblState
-            // 
-            lblState.BackColor = Color.DarkRed;
-            lblState.BorderStyle = BorderStyle.FixedSingle;
-            tableLayoutPanel6.SetColumnSpan(lblState, 2);
-            lblState.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            lblState.ForeColor = Color.White;
-            lblState.Location = new Point(0, 67);
-            lblState.Margin = new Padding(0);
-            lblState.Name = "lblState";
-            lblState.Size = new Size(168, 68);
-            lblState.TabIndex = 12;
-            lblState.Text = "PLC";
-            lblState.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // label15
-            // 
-            label15.BackColor = SystemColors.ActiveCaption;
-            label15.BorderStyle = BorderStyle.FixedSingle;
-            tableLayoutPanel6.SetColumnSpan(label15, 2);
-            label15.Font = new Font("맑은 고딕", 21.75F, FontStyle.Bold, GraphicsUnit.Point);
-            label15.ForeColor = Color.White;
-            label15.Location = new Point(0, 0);
-            label15.Margin = new Padding(0);
-            label15.Name = "label15";
-            label15.Size = new Size(168, 66);
-            label15.TabIndex = 8;
-            label15.Text = "상태확인";
-            label15.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // label1
-            // 
-            label1.BackColor = SystemColors.ActiveCaption;
-            label1.BorderStyle = BorderStyle.FixedSingle;
-            label1.Font = new Font("맑은 고딕", 48F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.ForeColor = Color.White;
-            label1.Location = new Point(2, -1);
-            label1.Margin = new Padding(0);
-            label1.Name = "label1";
-            label1.Size = new Size(966, 136);
-            label1.TabIndex = 1;
-            label1.Text = "SlideTester";
-            label1.Click += label1_Click;
-            // 
-            // btn_Log
-            // 
-            btn_Log.BackColor = Color.Teal;
-            btn_Log.FlatStyle = FlatStyle.Flat;
-            btn_Log.Font = new Font("맑은 고딕", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
-            btn_Log.ForeColor = Color.White;
-            btn_Log.Location = new Point(1545, 0);
-            btn_Log.Margin = new Padding(0);
-            btn_Log.Name = "btn_Log";
-            btn_Log.Size = new Size(191, 69);
-            btn_Log.TabIndex = 6;
-            btn_Log.Text = "LOG";
-            btn_Log.UseVisualStyleBackColor = false;
-            btn_Log.Click += btn_Log_Click;
             // 
             // tableLayoutPanel2
             // 
@@ -532,6 +519,7 @@
             // panel1
             // 
             tableLayoutPanel2.SetColumnSpan(panel1, 3);
+            panel1.Controls.Add(pnIO);
             panel1.Controls.Add(label28);
             panel1.Controls.Add(lblMax);
             panel1.Controls.Add(label27);
@@ -764,6 +752,36 @@
             dataGridView1.TabIndex = 8;
             dataGridView1.CellFormatting += dataGridView1_CellFormatting;
             // 
+            // lblState2
+            // 
+            lblState2.BackColor = Color.DarkRed;
+            lblState2.BorderStyle = BorderStyle.FixedSingle;
+            tableLayoutPanel6.SetColumnSpan(lblState2, 2);
+            lblState2.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            lblState2.ForeColor = Color.White;
+            lblState2.Location = new Point(0, 88);
+            lblState2.Margin = new Padding(0);
+            lblState2.Name = "lblState2";
+            lblState2.Size = new Size(168, 47);
+            lblState2.TabIndex = 13;
+            lblState2.Text = "POP";
+            lblState2.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // lblState
+            // 
+            lblState.BackColor = Color.DarkRed;
+            lblState.BorderStyle = BorderStyle.FixedSingle;
+            tableLayoutPanel6.SetColumnSpan(lblState, 2);
+            lblState.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            lblState.ForeColor = Color.White;
+            lblState.Location = new Point(0, 44);
+            lblState.Margin = new Padding(0);
+            lblState.Name = "lblState";
+            lblState.Size = new Size(168, 44);
+            lblState.TabIndex = 14;
+            lblState.Text = "PLC";
+            lblState.TextAlign = ContentAlignment.MiddleCenter;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -777,9 +795,9 @@
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);
             panel3.ResumeLayout(false);
+            tableLayoutPanel6.ResumeLayout(false);
             pnIO.ResumeLayout(false);
             pnIO.PerformLayout();
-            tableLayoutPanel6.ResumeLayout(false);
             tableLayoutPanel2.ResumeLayout(false);
             tableLayoutPanel3.ResumeLayout(false);
             panel1.ResumeLayout(false);
@@ -802,22 +820,12 @@
         private Panel panel1;
         private DataGridView dataGridView1;
         private Panel pnIO;
-        private Label label11;
-        private Label label10;
-        private Label label9;
-        private Label label8;
-        private Label label7;
-        private Label label3;
-        private Label label12;
-        private Label label13;
         private Button btn_Exit;
         private Panel panel3;
         private Label label1;
         private TableLayoutPanel tableLayoutPanel6;
         private Label label15;
-        private Label lblState;
         private Button btn_AddNewRow;
-        private Label label14;
         private Label lblMy;
         private Label label18;
         private Label lblZigNo;
@@ -838,5 +846,16 @@
         private Label label28;
         private Button btn_Req;
         private Button btn_Log;
+        private Label label14;
+        private Label label12;
+        private Label label13;
+        private Label label11;
+        private Label label10;
+        private Label label9;
+        private Label label8;
+        private Label label7;
+        private Label label3;
+        private Label lblState;
+        private Label lblState2;
     }
 }

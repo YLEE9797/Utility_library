@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -23,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 263,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "frmMain.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\frmMain.cs",
@@ -107,20 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmMain.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
-              "RelativeDocumentMoniker": "SJ_FNC\\frmMain.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
-              "RelativeToolTip": "SJ_FNC\\frmMain.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAApwHYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T02:46:50.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LogViewer.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\LogViewer.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\LogViewer.cs",

@@ -28,12 +28,35 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "ModelForm";
+            label1 = new Label();
+            SuspendLayout();
+            // 
+            // label1
+            // 
+            label1.BackColor = Color.DarkBlue;
+            label1.BorderStyle = BorderStyle.FixedSingle;
+            label1.Font = new Font("맑은 고딕", 26.25F, FontStyle.Bold, GraphicsUnit.Point);
+            label1.ForeColor = Color.White;
+            label1.Location = new Point(0, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(1139, 81);
+            label1.TabIndex = 0;
+            label1.Text = "모델설정";
+            label1.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // ModelForm
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(1139, 717);
+            Controls.Add(label1);
+            Name = "ModelForm";
+            Text = "ModelForm";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Label label1;
     }
 }
