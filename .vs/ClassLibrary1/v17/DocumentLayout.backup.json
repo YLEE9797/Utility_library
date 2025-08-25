@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\portabletester\\utility_library\\sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\portabletester\\utility_library\\sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\setform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\searchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\classlibrary1\\utility_library\\sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|c:\\users\\user\\source\\repos\\portabletester\\utility_library\\sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A72ABF7-ED85-43B9-8043-5E1E348A2D7E}|SJ_FNC\\SJ_FNC.csproj|solutionrelative:sj_fnc\\logviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,19 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 263,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "frmMain.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\frmMain.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\frmMain.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\frmMain.cs [\uB514\uC790\uC778]",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\frmMain.cs [\uB514\uC790\uC778]",
               "RelativeToolTip": "SJ_FNC\\frmMain.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T09:28:24.985Z",
@@ -56,33 +52,31 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LogViewer.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\LogViewer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\LogViewer.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\LogViewer.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\LogViewer.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "SJ_FNC\\LogViewer.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\ClassLibrary1\\Utility_library\\SJ_FNC\\LogViewer.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T08:39:41.606Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-01-03T08:39:41.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SearchForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SearchForm.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\SearchForm.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "SJ_FNC\\SearchForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\ClassLibrary1\\Utility_library\\SJ_FNC\\SearchForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T08:39:05.738Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-01-03T08:39:05.738Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SetForm.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SetForm.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\SetForm.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SetForm.cs",
               "RelativeToolTip": "SJ_FNC\\SetForm.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAvwD0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,26 +87,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SetForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\SetForm.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\SetForm.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "SJ_FNC\\SetForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\ClassLibrary1\\Utility_library\\SJ_FNC\\SetForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T03:32:00.352Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
+              "WhenOpened": "2025-01-03T03:32:00.352Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "LogViewer.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\LogViewer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\LogViewer.cs",
               "RelativeDocumentMoniker": "SJ_FNC\\LogViewer.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\ClassLibrary1\\Utility_library\\SJ_FNC\\LogViewer.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\PortableTester\\Utility_library\\SJ_FNC\\LogViewer.cs",
               "RelativeToolTip": "SJ_FNC\\LogViewer.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAApwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T09:10:53.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T09:10:53.329Z"
             }
           ]
         }
