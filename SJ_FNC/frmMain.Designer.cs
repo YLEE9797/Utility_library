@@ -38,6 +38,8 @@
             btn_Search = new Button();
             panel3 = new Panel();
             tableLayoutPanel6 = new TableLayoutPanel();
+            lblState = new Label();
+            lblState2 = new Label();
             label15 = new Label();
             label1 = new Label();
             btn_Log = new Button();
@@ -78,8 +80,6 @@
             lblJug = new Label();
             chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             dataGridView1 = new DataGridView();
-            lblState2 = new Label();
-            lblState = new Label();
             tableLayoutPanel1.SuspendLayout();
             panel3.SuspendLayout();
             tableLayoutPanel6.SuspendLayout();
@@ -198,6 +198,36 @@
             tableLayoutPanel6.RowStyles.Add(new RowStyle(SizeType.Absolute, 47F));
             tableLayoutPanel6.Size = new Size(168, 135);
             tableLayoutPanel6.TabIndex = 2;
+            // 
+            // lblState
+            // 
+            lblState.BackColor = Color.DarkRed;
+            lblState.BorderStyle = BorderStyle.FixedSingle;
+            tableLayoutPanel6.SetColumnSpan(lblState, 2);
+            lblState.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            lblState.ForeColor = Color.White;
+            lblState.Location = new Point(0, 44);
+            lblState.Margin = new Padding(0);
+            lblState.Name = "lblState";
+            lblState.Size = new Size(168, 44);
+            lblState.TabIndex = 14;
+            lblState.Text = "PLC";
+            lblState.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // lblState2
+            // 
+            lblState2.BackColor = Color.DarkRed;
+            lblState2.BorderStyle = BorderStyle.FixedSingle;
+            tableLayoutPanel6.SetColumnSpan(lblState2, 2);
+            lblState2.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            lblState2.ForeColor = Color.White;
+            lblState2.Location = new Point(0, 88);
+            lblState2.Margin = new Padding(0);
+            lblState2.Name = "lblState2";
+            lblState2.Size = new Size(168, 47);
+            lblState2.TabIndex = 13;
+            lblState2.Text = "POP";
+            lblState2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label15
             // 
@@ -752,36 +782,6 @@
             dataGridView1.TabIndex = 8;
             dataGridView1.CellFormatting += dataGridView1_CellFormatting;
             // 
-            // lblState2
-            // 
-            lblState2.BackColor = Color.DarkRed;
-            lblState2.BorderStyle = BorderStyle.FixedSingle;
-            tableLayoutPanel6.SetColumnSpan(lblState2, 2);
-            lblState2.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            lblState2.ForeColor = Color.White;
-            lblState2.Location = new Point(0, 88);
-            lblState2.Margin = new Padding(0);
-            lblState2.Name = "lblState2";
-            lblState2.Size = new Size(168, 47);
-            lblState2.TabIndex = 13;
-            lblState2.Text = "POP";
-            lblState2.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // lblState
-            // 
-            lblState.BackColor = Color.DarkRed;
-            lblState.BorderStyle = BorderStyle.FixedSingle;
-            tableLayoutPanel6.SetColumnSpan(lblState, 2);
-            lblState.Font = new Font("맑은 고딕", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            lblState.ForeColor = Color.White;
-            lblState.Location = new Point(0, 44);
-            lblState.Margin = new Padding(0);
-            lblState.Name = "lblState";
-            lblState.Size = new Size(168, 44);
-            lblState.TabIndex = 14;
-            lblState.Text = "PLC";
-            lblState.TextAlign = ContentAlignment.MiddleCenter;
-            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -791,6 +791,7 @@
             Controls.Add(tableLayoutPanel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Name = "MainForm";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             tableLayoutPanel1.ResumeLayout(false);

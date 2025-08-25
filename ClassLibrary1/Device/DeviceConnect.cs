@@ -23,9 +23,27 @@ namespace UtilityLib.Device
             DAQ,
             PCI,
         }
+
+        #region Crevis 정의
+
+        private CrevisFnIO m_cFnIo = new CrevisFnIO();
+        private Int32 m_Err = 0;
+        private IntPtr m_hSystem = new IntPtr();
+        private IntPtr m_hDevivce = new IntPtr();
+        private CrevisFnIO.DEVICEINFOMODBUSTCP2 DeviceInfo = new CrevisFnIO.DEVICEINFOMODBUSTCP2();
+
+        //Read Val
+        private byte[] pInputImage = null;
+        private byte[] pOutputImage = null;
+
+        private int InputImageSize = 0;
+        private int OutputImageSize = 0;
+
+        #endregion
         public DeviceList DeviceType;//디바이스 타입
         public string EtherNet_IP;//이더넷 IP
         public int EtherNet_Port;//이더넷 PORT
+
         //디바이스 리스트 이름과,ip와,Port
         public DeviceConnect(DeviceList Device,string ip,int Port)
         {
@@ -33,7 +51,10 @@ namespace UtilityLib.Device
             this.EtherNet_IP = ip;
             this.EtherNet_Port = Port;
         }
+        public bool CrevisOpen()
+        {
 
+        }
         #region Connect
         public bool Connect()
         {
@@ -42,7 +63,7 @@ namespace UtilityLib.Device
                 switch (DeviceType)
                 {
                     case DeviceList.CREVIS:
-
+                      
                         break;
                     case DeviceList.WAGO:
                         break;
